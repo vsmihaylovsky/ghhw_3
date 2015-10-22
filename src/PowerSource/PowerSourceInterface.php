@@ -12,5 +12,6 @@ namespace PowerSource;
 interface PowerSourceInterface
 {
     public function getVoltage();
+
     public function getElectricCurrent();
 }

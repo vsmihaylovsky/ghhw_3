@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Power source\\": "src/PowerSource"
+            "PowerSource\\": "src/PowerSource"
         }
     },
     "minimum-stability": "stable",
