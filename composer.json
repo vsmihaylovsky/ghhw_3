@@ -1,0 +1,16 @@
+{
+    "name": "root/ghhw_3.ua",
+    "authors": [
+        {
+            "name": "vsmihaylovsky",
+            "email": "vsmihaylovsky@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Power source\\": "src/PowerSource"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
